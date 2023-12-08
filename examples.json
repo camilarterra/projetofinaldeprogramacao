@@ -1,105 +1,23 @@
 {
     "what": [
-        "what",
-        "brought the actions, the steps",
-        "what is considered when making the decision",
-        "what are the main difficulties in decision-making",
-        "automated testing before code and code review",
-        "inclusion of the design review column to check each component of the screen delivered by the developer, check font size and compare parameters and components with the prototype",
-        "time metrics for the correction of each bug which must start in accordance with the degree of criticality, not by the opening date",
-        "holistic revision of the components of the prototype compared to the developed screen",
-        "whats is the issue?",
-        "what is the issue's description?",
-        "what is the typo of the issue?",
-        "what is considered when making the decision?",
-        "what are the main difficulties in decision-making?",
-        "what are the main logistical problems of this process?",
-        "what is the scope of this process?",
-        "what level of decision-making should the system handle? 5.1- Strategic Decision; 5.2- Tactical Decision; 5.3-. Operational Decision",
-        "can you resolve the conflicts?"
+        "add here what samples"
     ],
     "why": [
-        "why",
-        "brought justifications and reasons",
-        "the developer will have a revised code delivery through automated testing",
-        "the Designer will be able to do the revision and point out some faults before the test, making it less overloaded and preventing more bugs from opening",
-        "greater control of the completion time of each bug, to decrease their accumulation at the end of Sprint",
-        "to have a more reliable check of the components that were previously unnoticed, decreasing bugs in the client",
-        "why it is an issue?",
-        "What is the goal to solve it?",
-        "what are the benefits of solving it?",
-        "what are the expected behaviour?"
+        "add here why samples"
     ],
     "when": [
-        "when",
-        "brought dates, deadlines and periodicities",
-        "What is the frequency of carrying out this action?",
-        "During coding, the Developer uses the FDD before starting the task and after coding, completing the automated test.",
-        "This column will be included after each task delivered by the developer and before the quality test. After that, the approved screen will be sent to the test analyst.",
-        "When a bug is opened, the test analyst should communicate the PO who will determine the degree of priority and estimate the time of completion.",
-        "At the time of manual testing.",
-        "At Scrum cerimonies and Sprint development.",
-        "When the issue was or will be solved?",
-        "What is the deadline?",
-        "Is it open, closed or ongoing?",
-        "What is the description of the ongoing solution?"
+        "add here when samples"
     ],
     "where": [
-        "where",
-        "brought location within the system architecture",
-        "Where does the current system run?",
-        "In localhost and code development platform.",
-        "Click up system in the current Sprint development - management and activity control tool. 3. Click up in the Bug area - activity management and control tool.",
-        "In the test approval area.",
-        "Along the Sprint and management by the Click Up tool.",
-        "Where is the issue?",
-        "What is the start point?",
-        "What are the connected areas?",
-        "Where is it located in code?"
+        "add here where samples"
     ],
     "who": [
-        "who",
-        "should bring those responsible for the action",
-        "Who is responsible for performing each action?",
-        "Full stack Jr. and Full Developers",
-        "UX/UI Designer",
-        "Test Analyst and Product Owner",
-        "Test Analyst",
-        "Every project's workers",
-        "Who will solve the issue?",
-        "Is this person getting attracted on it?",
-        "Is this person feeling safe?",
-        "Is it easy to work?",
-        "Does this person have experience level?",
-        "Does this person have the required skills?"
+        "add here who samples"
     ],
     "how": [
-        "how",
-        "presented methods and processes",
-        "How does the Negotiation Process work?",
-        "How to improve the decision-making process?",
-        "How to streamline the decision-making process?",
-        "How is currently existing decision-making classified, programmed or non-programmed (or both)?",
-        "How would you rate the decision according to probability? 5.1- Risk decision? 5.2- Decision uncertainty? 5.3- Sure decision?",
-        "How would this decision be classified according to the deadline? 6.1- Short-Term Decision? 6.2- Long-Term Decision?",
-        "How can we improve the current form?",
-        "Automated testing training for Full stack Junior Developers.",
-        "Including as a new task for the Project Designer.",
-        "Assigning as a new process of control and management of the opening and correction of bugs.",
-        "Including as a manual testing activity.",
-        "Including as a second agile tool, through the verification of macro features and their user stories and inclusion of rules and comments in the code.",
-        "How to solve the issue?",
-        "What are the steps to reproduce it?",
-        "What are the steps to debug?",
-        "What is the scenario?",
-        "What are de previous attempts?",
-        "What are the solving challenges?"
+        "add here how samples"
     ],
     "how_much": [
-        "how much",
-        "brought cost data to the solution",
-        "What is the cost involved in carrying out the process?",
-        "How big is the issue?",
-        "What are the required effort?"
+        "add here how much samples"
     ]
 }
